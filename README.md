@@ -26,7 +26,7 @@ mat=np.array(eval(input()))
 ans=np.linalg.norm(mat,2)
 print("{:.2f}".format(ans))
 
-# 3-Infinity Norm of a Matrix
+# Infinity Norm of a Matrix
 
 import numpy as np
 mat=np.array(eval(input()))
@@ -41,7 +41,7 @@ print("{:.2f}".format(ans))
 ### 2-Norm of a Matrix
 ![Alt text](<norm 2.png>)
 
-### 3-Infinity Norm of a Matrix
+### Infinity Norm of a Matrix
 ![Alt text](<norm 3.png>)
 
 ## Result
